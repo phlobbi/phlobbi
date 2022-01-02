@@ -1,6 +1,5 @@
-👋 Hello, I’m @phlobbi
-🇩🇪 Living in Saarbrücken, Germany
-📚 Currently studying Applied Informatics
+# Hello there 👋🏻
+I am phlobbi, 18 years old and currently studying Applied Informatics in Saarbrücken. I am also working for @ma-x-neuemedien!
 
 
 <!---
