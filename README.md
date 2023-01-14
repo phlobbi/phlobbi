@@ -1,5 +1,5 @@
 # Hello there 👋🏻
-I am phlobbi, 19 years old and currently studying Applied Informatics in Saarbrücken.
+I am phlobbi, 19 years old and currently studying Practical Computer Science in Saarbrücken.
 
 
 <!---
