@@ -1,6 +1,4 @@
-# Hello there 👋🏻
-I am phlobbi, 19 years old and currently studying Practical Computer Science in Saarbrücken.
-
+# Hello there 👋
 
 <!---
 phlobbi/phlobbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
