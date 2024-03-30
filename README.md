@@ -4,4 +4,4 @@
 
 📚 Currently studying Applied Informatics
 
-💻 Mostly developing full stack web applications with Symfony
+💻 Mostly developing full stack web applications using Symfony
